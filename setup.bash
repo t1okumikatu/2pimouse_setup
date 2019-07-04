@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Ryuichi Ueda
+#Written by yoshi git
      
 exec 2> /tmp/setup.log
      
