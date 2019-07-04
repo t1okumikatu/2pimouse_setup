@@ -1,5 +1,10 @@
 #!/bin/bash -xve
+<<<<<<< HEAD
 #Written by yohsi     
+=======
+#Written by yoshi
+     
+>>>>>>> 2ccd6c82c5ca88c56355ef64caa1df899a46a4d5
 exec 2> /tmp/setup.log
      
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
